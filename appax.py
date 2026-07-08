@@ -166,7 +166,7 @@ with st.sidebar:
     
     st.markdown("""
         <div class="sidebar-link-container">
-            <span>🔗</span> <a href="www.linkedin.com/in/akshit-bane-944399215" target="_blank">LinkedIn</a>
+            <span>🔗</span> <a href="https://www.linkedin.com/in/akshit-bane-944399215/" target="_blank">LinkedIn</a>
         </div>
         <div class="sidebar-link-container">
             <span>💻</span> <a href="https://github.com/Akshit-Bane" target="_blank">GitHub</a>
