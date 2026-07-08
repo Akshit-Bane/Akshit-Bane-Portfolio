@@ -166,10 +166,10 @@ with st.sidebar:
     
     st.markdown("""
         <div class="sidebar-link-container">
-            <span>🔗</span> <a href="https://www.linkedin.com/in/www.linkedin.com/in/akshit-bane-944399215" target="_blank">LinkedIn</a>
+            <span>🔗</span> <a href="www.linkedin.com/in/akshit-bane-944399215" target="_blank">LinkedIn</a>
         </div>
         <div class="sidebar-link-container">
-            <span>💻</span> <a href="https://github.com/https://github.com/Akshit-Bane" target="_blank">GitHub</a>
+            <span>💻</span> <a href="https://github.com/Akshit-Bane" target="_blank">GitHub</a>
         </div>
         <div class="sidebar-link-container" style="margin-top: 15px;">
             <span>📧</span> <span style="font-weight:500; color:#E2E8F0;">Email:</span>
