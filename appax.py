@@ -161,7 +161,7 @@ st.markdown("""
 
 # --- SIDEBAR: CONTACT INFO ---
 with st.sidebar:
-    st.markdown("### Frankfurt am Main📍 Location")
+    st.markdown("### 📍Location: Frankfurt am Main, Germany")
     st.write("---")
     
     st.markdown("""
